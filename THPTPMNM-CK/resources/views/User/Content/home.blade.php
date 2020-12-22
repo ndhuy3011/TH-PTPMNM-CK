@@ -56,7 +56,7 @@
             <div class="col-lg-12">
                 <div class="li-product-tab">
                     <ul class="nav li-product-menu">
-                       <li><a class="active" data-toggle="tab" href="#li-new-product"><span>Sản phâm mới</span></a></li>
+                       <li><a class="active" data-toggle="tab" href="#li-new-product"><h4>Sản phẩm mới</h4></a></li>
                     </ul>
                 </div>
                 <!-- Begin Li's Tab Menu Content Area -->
@@ -128,7 +128,7 @@
             <div class="col-lg-12">
                 <div class="li-product-tab li-trending-product-tab">
                     <h2>
-                        <span>Sản  phẩm nỗi bật</span>
+                        <h4>Sản  phẩm nỗi bật</h4>
                     </h2>
                     {{-- <ul class="nav li-product-menu li-trending-product-menu">
                        <li><a class="active" data-toggle="tab" href="#home1"><span>Sanai</span></a></li>
