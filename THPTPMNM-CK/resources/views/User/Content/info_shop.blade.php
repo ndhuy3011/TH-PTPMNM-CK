@@ -20,9 +20,9 @@
             <div class="col-lg-6 order-last order-lg-first">
                 <div class="about-text-wrap">
                     <h2><span>LỜI CẢM ƠN</span></h2>
-                    <p>Lời cảm ơn đầu tiên, chúng em xin gởi lời cảm ơn chân thành đến Thầy Hà Anh Vũ, 
-                        giáo viên hướng dẫn Đồ án chuyên ngành trường ĐH Công nghệ Sài Gòn, 
-                        thầy đã hướng dẫn chúng em rất tận tình, quan tâm, giúp đỡ, động viên em trong suốt quá trình học tập và hoàn thành đề tài.</p>
+                    <p>Lời cảm ơn đầu tiên, chúng em xin gửi lời cảm ơn chân thành đến Thầy Bùi Nhật Bằng, 
+                        giáo viên phụ trách môn Phát triển phần mềm nguồn mở, 
+                        thầy đã hướng dẫn chúng em rất tận tình, quan tâm, giúp đỡ, động viên em trong suốt quá trình học tập.</p>
                     <p>Chúng em xin chúc thầy luôn tràn đầy sức khỏe, mãi mãi là người truyền đạt những kiến thức quý báu, 
                         là người đưa đò thầm lặng giúp chúng em nắm vững các kiến thức để sau này giúp ích cho đất nước.</p>
                     <p>Chúng em xin chân thành cảm ơn.</p>
